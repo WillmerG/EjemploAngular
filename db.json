@@ -1,16 +1,1 @@
-{
-"success": true,
-"user": {
-"name": "Willmer Gonzalez",
-"avatar": "Foto_001.svg",
-"level": 15,
-"poinst": 10,
-"achievements": [],
-"_id": "efjn3458yujbnergtjn456",
-"type": "Administrador",
-"user": "WillmerG",
-"email": "WG@carajo.com",
-"__v":0
-},
-"token": "2345hjb35ojk34bhu45bvtbv8945j5089u6509tjtrjgn6898634'0irpgjet4i"
-}
+{"success": true, "user": {"name": "Willmer Gonzalez", "avatar": "Foto_001.svg", "level": 15, "poinst": 10, "achievements": [], "_id": "efjn3458yujbnergtjn456", "type": "Administrador", "user": "WillmerG", "email": "WG@carajo.com", "__v":0 }, "token": "2345hjb35ojk34bhu45bvtbv8945j5089u6509tjtrjgn6898634'0irpgjet4i"}
